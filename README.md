@@ -4,17 +4,25 @@ Here you can find some of the most interesting projects I have worked on as part
 
 ## CS with Applications II
 
-**Markovian Candidate**: using Markov Models, analyze real texts from US politicians and assess the likelihood that a particular politician uttered an actual text. The implementation had to include a hash table data structure, and worked as if it was Python dictionary.
+**Decision trees**: I built a decision tree to predict the prevalence of diabetes in women from an indigenous tribe using data collected by the National Institute of Diabetes and Digestive and Kidney Diseases.
 
-*Skills developed: create a hash table data structure, set up of packages*
+*Skills developed: decision trees*
 
-**Scraping Chicago Parks**: build a scraper that crawls a simulacrum of the Chicago Parks website to construct a search index.
+**Record Linkage**: I trained an algorithm to classify pairs of entries as matches, non-matches, and possible matches between a listing of companies that received the Paycheck Protection Program Loans and campaign finance data from Illinois.
+
+*Skills developed: Data cleaning with Pandas, string similarity, regular expressions*
+
+**Park Search Engine**: I built a search engine using SQLite database for the data park collected in the previous assignment (Scraping Chicago Parks).
+
+*Skills developed: SQL queries, sqlite3*
+
+**Scraping Chicago Parks**: I built a web scraper that crawls a simulacrum of the Chicago Parks website to construct a search index.
 
 *Skills developed: HTML scraping*
 
-**Park Search Engine**: build a search engine using SQLite database for the data park collected in the previous assignment (Scraping Chicago Parks).
+**Markovian Candidate**: using Markov Models, I analyzed real texts from US politicians and assessed the likelihood that a particular politician uttered an actual text. The implementation had to include a hash table data structure built from scratch.
 
-*Skills developed: SQL queries, sqlite3*
+*Skills developed: create a hash table data structure, set up of packages*
 
 ## CS with Applications I
 
